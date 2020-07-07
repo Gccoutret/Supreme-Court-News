@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.Rbg-photo {
+  height: 400px;
+  width: 400px;
+}
